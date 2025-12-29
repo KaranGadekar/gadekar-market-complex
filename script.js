@@ -166,6 +166,52 @@
       whatsapp_label: 'WhatsApp',
       location_title: 'Location',
 
+      shops_title: 'Shops in Gadekar Market Complex',
+      shops_subtitle: 'Explore the shops and services available in the complex.',
+      shop_owner_label: 'Owner:',
+      shop1_name: 'Shree Swami Samarth Kirana & General Stores',
+      shop1_owner: 'Manoj Shivajirao Pawar',
+      shop1_desc: 'Wholesale and retail grocery items and daily household essentials.',
+      shop2_name: 'Krushiraj Agro Agency',
+      shop2_owner: 'Ravi Bhujang',
+      shop2_desc: 'Seeds, fertilizers, and pesticide products for agricultural needs.',
+      shop3_name: 'Savta Sliding & Aluminum Workshop',
+      shop3_owner: 'Subhash Waghmare, Sunil Waghmare',
+      shop3_desc: 'Aluminum sliding windows, partitions, and modern door solutions.',
+      shop4_name: 'Brothers Stationery & Multi-Services',
+      shop4_owner: 'Pradip Dabhade, Nitin Dabhade',
+      shop4_desc: 'Stationery items, Xerox services, and online form assistance.',
+      shop5_name: 'Royal Shetkari Hardware & Tractor Spare Parts',
+      shop5_owner: 'Sopan Gadekar, Digambar Gadekar',
+      shop5_desc: 'Agricultural hardware tools and tractor spare parts.',
+      shop6_name: 'Rajureshwar Stationery & Multi-Services',
+      shop6_owner: 'Nilesh Kharat',
+      shop6_desc: 'Stationery items, Xerox services, and online documentation support.',
+      shop7_name: 'Shreeja Traders & Agro Machinery / Shreeja Traders & Color',
+      shop7_owner: 'Vishal Padol',
+      shop7_desc: 'Supplier of construction materials, agro machinery, branded paints, cement, and hardware products.',
+      shop8_name: 'Ramanand Pashukhadya Kendra',
+      shop8_owner: 'Ramanand Laxmanrao Mhaslekar',
+      shop8_desc: 'Quality animal feed products for livestock.',
+      shop9_name: 'Yash Auto Parts',
+      shop9_owner: 'Ajay Ragde',
+      shop9_desc: 'Two-wheeler servicing, repairs, and spare parts.',
+      shop10_name: 'Kunal Tea House & Rasavanti Gruha',
+      shop10_owner: 'Babasaheb Gadekar',
+      shop10_desc: 'Tea, sugarcane juice, and popular local snacks.',
+      shop11_name: 'Pragati Footwear',
+      shop11_owner: 'Dinesh Shewale, Ganesh Shewale',
+      shop11_desc: 'Branded slippers and footwear at affordable prices.',
+      shop12_name: 'Hotel Sairaj',
+      shop12_owner: 'Ashok Rokde',
+      shop12_desc: 'Tea and light snacks for daily customers.',
+      shop13_name: 'Ganraj Hotel',
+      shop13_owner: 'Shriram Gadekar',
+      shop13_desc: 'Traditional jaggery tea and refreshments.',
+      shop14_name: 'Hindavi Engineering Welding Workshop',
+      shop14_owner: 'Ritesh Bhagwan Padol',
+      shop14_desc: 'Welding, fabrication, and repair of agricultural equipment.',
+
       map_title: 'Google Map',
       map_subtitle: 'Find us easily using the embedded map below.',
       map_open_gmaps: 'Open in Google Maps',
@@ -256,6 +302,52 @@
       whatsapp_label: 'व्हॉट्सॲप',
       location_title: 'स्थान',
 
+        shops_title: 'गाडेकर मार्केट कॉम्प्लेक्समधील दुकाने',
+        shops_subtitle: 'कॉम्प्लेक्समधील दुकाने',
+        shop_owner_label: 'मालकाचे नाव:',
+        shop1_name: 'श्री स्वामी समर्थ किराणा अँड जनरल स्टोअर्स',
+        shop1_owner: 'मनोज शिवाजीराव पवार',
+        shop1_desc: 'किराणा व घरगुती वस्तूंची घाऊक व किरकोळ विक्री.',
+        shop2_name: 'कृषिराज अ‍ॅग्रो एजन्सी',
+        shop2_owner: 'रवी भुजंग',
+        shop2_desc: 'बियाणे, खते व कीटकनाशक उत्पादने उपलब्ध.',
+        shop3_name: 'सावता स्लायडिंग अँड अ‍ॅल्युमिनियम वर्कशॉप',
+        shop3_owner: 'सुभाष वाघमारे, सुनील वाघमारे',
+        shop3_desc: 'अ‍ॅल्युमिनियम स्लायडिंग, पार्टिशन व आधुनिक दरवाजे.',
+        shop4_name: 'ब्रदर्स स्टेशनरी अँड मल्टी-सर्व्हिसेस',
+        shop4_owner: 'प्रदीप दाभाडे, नितीन दाभाडे',
+        shop4_desc: 'स्टेशनरी, झेरॉक्स व ऑनलाइन फॉर्म सेवा.',
+        shop5_name: 'रॉयल शेतकरी हार्डवेअर अँड ट्रॅक्टर स्पेअर पार्ट्स',
+        shop5_owner: 'सोपान गाडेकर, दिगंबर गाडेकर',
+        shop5_desc: 'शेती अवजारे व ट्रॅक्टरचे सुटे भाग.',
+        shop6_name: 'राजुरेश्वर स्टेशनरी अँड मल्टी-सर्व्हिसेस',
+        shop6_owner: 'निलेश खरात',
+        shop6_desc: 'स्टेशनरी, झेरॉक्स व ऑनलाइन कागदपत्र सेवा.',
+        shop7_name: 'श्रीजा ट्रेडर्स अँड अ‍ॅग्रो मशिनरी / श्रीजा ट्रेडर्स अँड कलर',
+        shop7_owner: 'विशाल पडोल',
+        shop7_desc: 'बांधकाम साहित्य, अ‍ॅग्रो मशिनरी, रंग व हार्डवेअर.',
+        shop8_name: 'रामानंद पशुखाद्य केंद्र',
+        shop8_owner: 'रामानंद लक्ष्मणराव म्हसलेकर',
+        shop8_desc: 'सर्व प्रकारचे पशुखाद्य उपलब्ध.',
+        shop9_name: 'यश ऑटो पार्ट्स',
+        shop9_owner: 'अजय रगडे',
+        shop9_desc: 'दुचाकी सर्व्हिसिंग, दुरुस्ती व स्पेअर पार्ट्स.',
+        shop10_name: 'कुणाल टी हाऊस अँड रसवंती गृह',
+        shop10_owner: 'बाबासाहेब गाडेकर',
+        shop10_desc: 'चहा, ऊसाचा रस व स्थानिक नाश्ता.',
+        shop11_name: 'प्रगती फुटवेअर',
+        shop11_owner: 'दिनेश शेवाळे, गणेश शेवाळे',
+        shop11_desc: 'ब्रँडेड चप्पल व पादत्राणे.',
+        shop12_name: 'हॉटेल साईराज',
+        shop12_owner: 'अशोक रोकडे',
+        shop12_desc: 'चहा व हलका नाश्ता.',
+        shop13_name: 'गणराज हॉटेल',
+        shop13_owner: 'श्रीराम गाडेकर',
+        shop13_desc: 'पारंपरिक गुळाचा चहा व अल्पोपहार.',
+        shop14_name: 'हिंदवी इंजिनिअरिंग वेल्डिंग वर्कशॉप',
+        shop14_owner: 'रितेश भगवान पडोल',
+        shop14_desc: 'शेती अवजारांचे वेल्डिंग व दुरुस्ती काम.',
+
       map_title: 'गूगल नकाशा',
       map_subtitle: 'खाली दिलेल्या नकाशाद्वारे सहज शोधा.',
       map_open_gmaps: 'गूगल मॅप्समध्ये उघडा',
@@ -345,6 +437,52 @@
       call_7410764024: 'कॉल: 7410764024',
       whatsapp_label: 'व्हाट्सएप',
       location_title: 'स्थान',
+
+      shops_title: 'गाडेकर मार्केट कॉम्प्लेक्स की दुकानें',
+      shops_subtitle: 'कॉम्प्लेक्स की दुकानें',
+      shop_owner_label: 'मालिक का नाम:',
+      shop1_name: 'श्री स्वामी समर्थ किराना एंड जनरल स्टोअर्स',
+      shop1_owner: 'मनोज शिवाजीराव पवार',
+      shop1_desc: 'किराना और घरेलू सामान की थोक व खुदरा बिक्री।',
+      shop2_name: 'कृषिराज एग्रो एजेंसी',
+      shop2_owner: 'रवि भुजंग',
+      shop2_desc: 'बीज, खाद और कीटनाशक उत्पाद उपलब्ध।',
+      shop3_name: 'सावता स्लाइडिंग एंड एल्युमिनियम वर्कशॉप',
+      shop3_owner: 'सुभाष वाघमारे, सुनील वाघमारे',
+      shop3_desc: 'एल्युमिनियम स्लाइडिंग, पार्टिशन और आधुनिक दरवाजे।',
+      shop4_name: 'ब्रदर्स स्टेशनरी एंड मल्टी-सर्व्हिसेस',
+      shop4_owner: 'प्रदीप दाभाडे, नितिन दाभाडे',
+      shop4_desc: 'स्टेशनरी, ज़ेरॉक्स और ऑनलाइन फॉर्म सेवाएँ।',
+      shop5_name: 'रॉयल शेतकरी हार्डवेयर एंड ट्रैक्टर स्पेयर पार्ट्स',
+      shop5_owner: 'सोपान गाडेकर, दिगंबर गाडेकर',
+      shop5_desc: 'कृषि उपकरण और ट्रैक्टर के स्पेयर पार्ट्स।',
+      shop6_name: 'राजुरेश्वर स्टेशनरी एंड मल्टी-सर्व्हिसेस',
+      shop6_owner: 'निलेश खरात',
+      shop6_desc: 'स्टेशनरी, ज़ेरॉक्स और ऑनलाइन दस्तावेज़ सेवाएँ।',
+      shop7_name: 'श्रीजा ट्रेडर्स एंड एग्रो मशीनरी / कलर',
+      shop7_owner: 'विशाल पडोल',
+      shop7_desc: 'निर्माण सामग्री, एग्रो मशीनरी, रंग और हार्डवेयर।',
+      shop8_name: 'रामानंद पशुखाद्य केंद्र',
+      shop8_owner: 'रामानंद लक्ष्मणराव म्हसलेकर',
+      shop8_desc: 'सभी प्रकार का पशु आहार उपलब्ध।',
+      shop9_name: 'यश ऑटो पार्ट्स',
+      shop9_owner: 'अजय रगडे',
+      shop9_desc: 'दोपहिया सर्विसिंग, मरम्मत और स्पेयर पार्ट्स।',
+      shop10_name: 'कुणाल टी हाउस एंड रसवंती गृह',
+      shop10_owner: 'बाबासाहेब गाडेकर',
+      shop10_desc: 'चाय, गन्ने का रस और स्थानीय नाश्ता।',
+      shop11_name: 'प्रगति फुटवेअर',
+      shop11_owner: 'दिनेश शेवाळे, गणेश शेवाळे',
+      shop11_desc: 'ब्रांडेड चप्पल और जूते।',
+      shop12_name: 'होटल साईराज',
+      shop12_owner: 'अशोक रोकडे',
+      shop12_desc: 'चाय और हल्का नाश्ता।',
+      shop13_name: 'गणराज होटल',
+      shop13_owner: 'श्रीराम गाडेकर',
+      shop13_desc: 'पारंपरिक गुड़ की चाय और नाश्ता।',
+      shop14_name: 'हिंदवी इंजीनियरिंग वेल्डिंग वर्कशॉप',
+      shop14_owner: 'रितेश भगवान पडोल',
+      shop14_desc: 'कृषि उपकरणों की वेल्डिंग और मरम्मत कार्य।',
 
       map_title: 'गूगल मानचित्र',
       map_subtitle: 'नीचे दिए गए एम्बेडेड मानचित्र से आसानी से खोजें।',
@@ -470,6 +608,153 @@
       faqBtn.setAttribute('aria-expanded', 'true');
     }
   });
+
+  // ---------------------------------------------------------------------------
+  // Shops carousel (auto-slide, infinite loop, left/right controls)
+  // ---------------------------------------------------------------------------
+  (function initShopsCarousel() {
+    var viewport = document.querySelector('[data-shops-carousel]');
+    if (!viewport) return;
+
+    var track = viewport.querySelector('[data-shops-track]');
+    if (!track) return;
+
+    var root = viewport.closest('.shops-carousel') || document;
+    var prevBtn = root.querySelector('[data-shops-prev]');
+    var nextBtn = root.querySelector('[data-shops-next]');
+
+    // Faster auto sliding (user-requested)
+    var intervalMs = 2500;
+    var transitionMs = 520;
+    var timerId = null;
+    var resizeTimer = null;
+
+    function getPerView() {
+      var raw = getComputedStyle(viewport).getPropertyValue('--shops-per-view');
+      var n = parseInt(String(raw).trim(), 10);
+      return Number.isFinite(n) && n > 0 ? n : 1;
+    }
+
+    function getGapPx() {
+      var rawGap = getComputedStyle(track).gap;
+      var gap = parseFloat(rawGap);
+      return Number.isFinite(gap) ? gap : 0;
+    }
+
+    function cardWidthPx() {
+      var first = track.children[0];
+      if (!first) return 0;
+      return first.getBoundingClientRect().width;
+    }
+
+    function setTranslateByIndex(index) {
+      var w = cardWidthPx();
+      var g = getGapPx();
+      track.style.transform = 'translateX(' + (-index * (w + g)) + 'px)';
+    }
+
+    function stop() {
+      if (timerId) window.clearInterval(timerId);
+      timerId = null;
+    }
+
+    function restartTimer(nextFn) {
+      stop();
+      timerId = window.setInterval(nextFn, intervalMs);
+    }
+
+    function clearClones() {
+      var clones = track.querySelectorAll('[data-shops-clone="1"]');
+      for (var i = 0; i < clones.length; i++) clones[i].remove();
+    }
+
+    function init() {
+      stop();
+      clearClones();
+
+      var perView = getPerView();
+      var originalCount = track.children.length;
+      if (originalCount === 0) return;
+
+      // Clone last `perView` cards to the start (for prev)
+      for (var p = 0; p < perView; p++) {
+        var fromEnd = track.children[originalCount - 1 - p];
+        if (!fromEnd) break;
+        var cloneBefore = fromEnd.cloneNode(true);
+        cloneBefore.setAttribute('data-shops-clone', '1');
+        track.insertBefore(cloneBefore, track.firstChild);
+      }
+
+      // Clone first `perView` cards to the end (for next)
+      // Note: after prepending, originals start at index `perView`
+      for (var c = 0; c < perView; c++) {
+        var node = track.children[perView + c];
+        if (!node) break;
+        var cloneAfter = node.cloneNode(true);
+        cloneAfter.setAttribute('data-shops-clone', '1');
+        track.appendChild(cloneAfter);
+      }
+
+      // Start at the first original card
+      var index = perView;
+      track.classList.remove('is-animating');
+      setTranslateByIndex(index);
+
+      function next() {
+        track.classList.add('is-animating');
+        index += 1;
+        setTranslateByIndex(index);
+
+        // When we hit the cloned-after area, jump back to the first original
+        if (index === perView + originalCount) {
+          window.setTimeout(function () {
+            track.classList.remove('is-animating');
+            index = perView;
+            setTranslateByIndex(index);
+          }, transitionMs + 60);
+        }
+      }
+
+      function prev() {
+        track.classList.add('is-animating');
+        index -= 1;
+        setTranslateByIndex(index);
+
+        // When we hit the cloned-before area, jump to the last original
+        if (index === perView - 1) {
+          window.setTimeout(function () {
+            track.classList.remove('is-animating');
+            index = perView + originalCount - 1;
+            setTranslateByIndex(index);
+          }, transitionMs + 60);
+        }
+      }
+
+      if (nextBtn) {
+        nextBtn.addEventListener('click', function () {
+          next();
+          restartTimer(next);
+        });
+      }
+
+      if (prevBtn) {
+        prevBtn.addEventListener('click', function () {
+          prev();
+          restartTimer(next);
+        });
+      }
+
+      // Auto-slide one-by-one
+      timerId = window.setInterval(next, intervalMs);
+    }
+
+    init();
+
+    window.addEventListener('resize', function () {
+      if (resizeTimer) window.clearTimeout(resizeTimer);
+      resizeTimer = window.setTimeout(init, 200);
+    }, { passive: true });
+  })();
 
   var toggle = document.querySelector('.nav-toggle');
   var nav = document.getElementById('primary-nav');
